@@ -1,0 +1,7 @@
+D:\C#\wmd\Employee attendence\Employee attendence\bin\Debug\Employee attendence.exe.config
+D:\C#\wmd\Employee attendence\Employee attendence\bin\Debug\Employee attendence.exe
+D:\C#\wmd\Employee attendence\Employee attendence\bin\Debug\Employee attendence.pdb
+D:\C#\wmd\Employee attendence\Employee attendence\obj\Debug\Employee attendence.csproj.AssemblyReference.cache
+D:\C#\wmd\Employee attendence\Employee attendence\obj\Debug\Employee attendence.csproj.CoreCompileInputs.cache
+D:\C#\wmd\Employee attendence\Employee attendence\obj\Debug\Employee attendence.exe
+D:\C#\wmd\Employee attendence\Employee attendence\obj\Debug\Employee attendence.pdb
